@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **caitlincroteau/caitlincroteau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,15 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### What I'm up to!
+## What I'm up to!
 
-## Building
+### Building
 - 🎭 app for tracking live performance venues available for rent in Greater Victoria
 - 🐐 Gävle Goat game in Unity
 
-## Learning
+### Learning
 - MongoDB
 - Data & Algorithms Fundamentals
 
-## Leveling up
+### Leveling up
 - Javascript, React, Express
