@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### What I'm up to!
+
+## Building
+- 🎭 app for tracking live performance venues available for rent in Greater Victoria
+- 🐐 Gävle Goat game in Unity
+
+## Learning
+- MongoDB
+- Data & Algorithms Fundamentals
+
+## Leveling up
+- Javascript, React, Express
