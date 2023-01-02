@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## What I'm up to!
+## Currently I'm working on ...
 
 ### Building
 - 🎭 Venuz, an app for tracking live performance venues available for rent in Greater Victoria
