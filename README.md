@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 #### Currently I'm working on ...
 
-- Building: 🎭 Venuz, an app for tracking live performance venues available for rent in Greater Victoria, 🐐 Gävle Goat game in Unity
+- 🎭 Venuz, an app for tracking live performance venues available for rent in Greater Victoria
+- 🐐 Gävle Goat game in Unity
 - Learning: MongoDB, Data & Algorithms Fundamentals
 - Leveling up: JavaScript, React, Express
