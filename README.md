@@ -12,22 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Quick Links
+#### Quick Links
 
 - [LinkedIn](https://www.linkedin.com/in/caitlincroteau/)
 
-### Currently I'm working on ...
+#### Currently I'm working on ...
 
-#### Building
-
-- 🎭 Venuz, an app for tracking live performance venues available for rent in Greater Victoria
-- 🐐 Gävle Goat game in Unity
-
-#### Learning
-
-- MongoDB
-- Data & Algorithms Fundamentals
-
-#### Leveling up
-
-- JavaScript, React, Express
+- Building: 🎭 Venuz, an app for tracking live performance venues available for rent in Greater Victoria, 🐐 Gävle Goat game in Unity
+- Learning: MongoDB, Data & Algorithms Fundamentals
+- Leveling up: JavaScript, React, Express
