@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## What I'm up to!
 
 ### Building
-- 🎭 app for tracking live performance venues available for rent in Greater Victoria
+- 🎭 Venuz, an app for tracking live performance venues available for rent in Greater Victoria
 - 🐐 Gävle Goat game in Unity
 
 ### Learning
