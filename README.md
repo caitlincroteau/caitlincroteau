@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi! I'm a Full Stack Web Developer with skills in JavaScript, React, Node.js, Express, Ruby on Rails, HTML, CSS, PostgreSQL, Python
+
 #### Quick Links
 
 - [LinkedIn](https://www.linkedin.com/in/caitlincroteau/)
@@ -22,3 +24,4 @@ Here are some ideas to get you started:
 - 🐐 Gävle Goat game in Unity
 - Learning: MongoDB, Data & Algorithms Fundamentals
 - Leveling up: JavaScript, React, Express
+
