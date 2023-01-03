@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Hi!🙋🏻‍♀️
+#### 🙋🏻‍♀️ Hi!
 
 My name is Caitlin, and I am a Full Stack Web Developer with skills in JavaScript, React, Node.js, Express, Ruby on Rails, HTML, CSS, PostgreSQL, Python
 
