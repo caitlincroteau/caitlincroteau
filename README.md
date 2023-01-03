@@ -24,6 +24,6 @@ My name is Caitlin, and I am a Full Stack Web Developer with skills in JavaScrip
 
 - 🎭 Venuz, an app for tracking live performance venues available for rent in Greater Victoria
 - 🐐 Gävle Goat game in Unity
-- Learning: MongoDB, Data & Algorithms Fundamentals
+- Learning: MongoDB, C#, Data & Algorithms Fundamentals
 - Leveling up: JavaScript, React, Express
 
