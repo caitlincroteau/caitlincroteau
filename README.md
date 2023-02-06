@@ -23,7 +23,7 @@ My name is Caitlin, and I am a Full Stack Web Developer with skills in JavaScrip
 #### Currently I'm working on ...
 
 - 🎭 Venuz, an app for tracking live performance venues available for rent in Greater Victoria
-- 🐐 Gävle Goat game in Unity using C#. Copies of my scripts can be found on GitHub [here](https://github.com/caitlincroteau/galve-goat)
+- 🐐 Gävle Goat game in Unity using C#. Copies of my scripts can be found [on GitHub here](https://github.com/caitlincroteau/galve-goat)
 - Learning: MongoDB, C#, Data & Algorithms Fundamentals
 - Leveling up: JavaScript, React, Express
 
