@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 My name is Caitlin, and I am a Full Stack Web Developer with skills in JavaScript, React, Node.js, Express, Ruby on Rails, HTML, CSS, PostgreSQL, Python
 
+I love problem-solving and language, and I’m passionate about the intersections of art, communication and technology.
+
 #### Quick Links
 
 - [LinkedIn](https://www.linkedin.com/in/caitlincroteau/)
