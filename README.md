@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 #### 🙋🏻‍♀️ Hi!
 
-My name is Caitlin, and I am a Full Stack Web Developer with skills in JavaScript, React, Node.js, Express, Ruby on Rails, HTML, CSS, PostgreSQL, Python
+My name is Caitlin, and I am a Full Stack Web Developer with skills in JavaScript, React, Node.js, Express, Ruby on Rails, HTML, CSS, PostgreSQL, Python, MongoDB, C#
 
 I love problem-solving and language, and I’m passionate about the intersections of art, communication and technology.
 
@@ -24,7 +24,9 @@ I love problem-solving and language, and I’m passionate about the intersection
 
 #### Currently I'm working on ...
 
-- 🐐 [Gävle Goat](https://github.com/caitlincroteau/galve-goat), a 2D, single-player video game built in Unity using C#.
 - 🎭 [Venuz](https://github.com/caitlincroteau/venuz), an app for tracking live performance venues available for rent in Greater Victoria
+- 🐐 [Gävle Goat](https://github.com/caitlincroteau/galve-goat), a 2D, single-player video game built in Unity using C#.
+- 🍄 [FUNgus](https://github.com/caitlincroteau/FUNgus), a 2D Unity test scene (loosely) inspired by The Last of Us tv show
+
 - Learning: C#, Unity, MongoDB, Data & Algorithms Fundamentals
 - Leveling up: JavaScript, React, Express
